@@ -47,7 +47,19 @@ Agent 4: RESULTS ANALYST & REVIEWER 📊
 └─ Publication preparation
 ```
 
-## Quick Start
+## 🚀 Quick Start with Claude Desktop/Code
+
+**Want to use this with Claude right now?**
+
+1. **Download pre-packaged skills:** See `claude-skills-zips/` folder
+2. **Upload to Claude:** Settings > Capabilities > Upload skill
+3. **Start researching:** Claude will automatically use the skills!
+
+📖 **Full setup guide:** [CLAUDE_SKILLS_SETUP.md](CLAUDE_SKILLS_SETUP.md)
+
+---
+
+## Quick Start (Documentation)
 
 ### 1. Understand the System
 
